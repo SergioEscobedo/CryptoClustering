@@ -1,1 +1,1 @@
-# CryptoClustering
+It is necessary to run the code sin github does not show the plots.
